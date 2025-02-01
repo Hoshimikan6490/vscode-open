@@ -36,7 +36,7 @@
     "commands": [
       {
         "command": "workbench.action.files.openFileWithDefaultApplication",
-        "title": "Open with default application"
+        "title": "%openFileWithDefaultApplication%"
       }
     ],
     "menus": {
